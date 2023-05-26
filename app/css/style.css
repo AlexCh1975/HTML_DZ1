@@ -1,0 +1,37 @@
+a{
+    text-decoration: none;
+}
+
+.menu>a{
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.main__title, 
+.catalog__title, 
+.contact__title{
+    color: #222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.main__description-text, 
+.img__description-title, 
+.img__text,
+.text{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987;
+}
+
+.welcom{
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
